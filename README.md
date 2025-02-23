@@ -71,10 +71,10 @@ categorical:
 
 - [ ] even spread apart form 18
 
-![age distribution analyis](graphs\age_distribution_analysis.png)
+![age distribution analyis](graphs/age_distribution_analysis.png)
 the top two graphs show that the spread of the data is quite even across the age groups, with a spike at age 18. understanding if this is a good sample of ages needs investigation to find if this has a similar spread to the spread of the ages of total population of the US.
 
-![age distribution analyis](graphs\age_distribution_comparison.png)
+![age distribution analyis](graphs/age_distribution_comparison.png)
 
 Comparing the spread of the ages in our data with the general population ([as of 2022](https://data.census.gov/table/ACSST1Y2022.S0101?q=population%20by%20age)), we can see that this spike at 18-20 is not aligned with the general population trends. the data also seems to have more over 60 data points compared to the proportions within the general population. The US age distribution dataset includes the total population, not just those with medical insurane. this dataset may not be proportionally representitive of all age groups. 
 
@@ -108,7 +108,7 @@ this is an interesting graph, there is a strong scew to the right depicting that
 
 Thes multiple modes could be cause from other variables in the data. investication is needed to see if these smaller distibutions can be mapped via other variables.
 
-![charges distribution analyis](graphs\charges_distribution_minus_the_large_distribution.png)
+![charges distribution analyis](graphs/charges_distribution_minus_the_large_distribution.png)
 
 Removeing the large distribution form the data shows to more very clear distributions that will need to be investigated for corelation.
 
@@ -118,7 +118,7 @@ Removeing the large distribution form the data shows to more very clear distribu
 
 this shows a very even split between males and females within this dataset.
 
-![us population gener distribution](graphs\us_population.png)
+![us population gener distribution](graphs/us_population.png)
 
 comparing these two plots the male/female split in this dataset is aligned with the total us population data
 
