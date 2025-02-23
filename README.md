@@ -114,7 +114,7 @@ Removeing the large distribution form the data shows to more very clear distribu
 
 ### Sex 
 
-![sex distribution analyis](graphs/sex_distribution_analysis.png)
+![sex distribution analyis](graphs/Sex_distribution_analysis.png)
 
 this shows a very even split between males and females within this dataset.
 
